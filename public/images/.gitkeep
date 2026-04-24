@@ -1,0 +1,2 @@
+# Placeholder for user-uploaded event images.
+# Move your JPG/PNG files here and update the paths in src/constants/content.ts to point to '/images/your-file.jpg'
